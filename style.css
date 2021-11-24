@@ -910,7 +910,7 @@ background-size: cover;
   background-size: cover;
 }
 .swiper-slide:nth-child(17n) {
-  background: url(images/neemy18.png);
+  background: url(images/neemy18.PNG);
   background-size: cover;
 }
 .swiper-slide:nth-child(18n) {
