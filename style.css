@@ -126,6 +126,27 @@ tfoot {
       margin-right: 3px;
         filter: inherit;
 }
+.gemini_title li{
+display: flex;
+  align-content: flex-start;
+}
+.gemini_personality ul{
+  margin-top: -15px;}
+
+.gemini_personality li{
+  justify-content: flex-start;
+  list-style: circle;
+  font-size: 18px;
+
+}
+.p_petit{
+
+  font-size: 5px;
+
+}
+.content2 h3, .content3 h3{
+  text-decoration: underline;
+}
 .food-swiper{
   max-width: 350px;
   justify-content: center;
